@@ -135,8 +135,8 @@ If you use this code in your research, please cite both the paper and this softw
   title     = {Analysis Code for "The Impact of Generative AI on Social Media"},
   year      = {2025},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.18537633},
-  url       = {https://doi.org/10.5281/zenodo.18537633}
+  doi       = {10.5281/zenodo.18537773},
+  url       = {https://doi.org/10.5281/zenodo.18537773}
 }
 ```
 
