@@ -1,0 +1,52 @@
+{
+    "categories": {
+        "Structural Changes": {
+            "description": "Modifications in sentence structure, paragraph flow, or content length.",
+            "sentence_restructuring": "Rewriting sentences for better clarity, conciseness, or readability.",
+            "paragraph_reordering": "Changing the sequence of ideas for better logical flow.",
+            "summarization_expansion": "Shortening or expanding content based on feedback."
+        },
+        "Stylistic Adjustments": {
+            "description": "Changes in tone, formality, or politeness of the text.",
+            "formalization": "Making the text more professional or academic.",
+            "casualization": "Making the text more conversational or informal.",
+            "politeness_adjustments": "Adjusting tone to be more diplomatic, polite, or direct."
+        },
+        "Argumentation & Logic": {
+            "description": "Improvements in reasoning, logic, and argument strength.",
+            "strengthening_arguments": "Adding reasoning, evidence, or counterarguments to support claims.",
+            "fixing_logical_fallacies": "Correcting contradictions, circular reasoning, or weak logic.",
+            "shifting_perspective": "Modifying stance or viewpoint in response to feedback."
+        },
+        "Factual & Informational Updates": {
+            "description": "Corrections and additions that improve factual accuracy and completeness.",
+            "correcting_errors": "Fixing grammatical mistakes, typos, or factual inaccuracies.",
+            "adding_new_information": "Incorporating additional knowledge from the LLM.",
+            "refining_definitions": "Providing clearer or more precise explanations of concepts."
+        },
+        "Sentiment & Emotional Adjustments": {
+            "description": "Changes that affect the emotional tone and expressiveness of the text.",
+            "softening_tone": "Making the response less aggressive or confrontational.",
+            "emphasizing_emotions": "Adding empathetic, encouraging, or expressive language.",
+            "reducing_emotional_bias": "Removing subjective or emotionally charged wording."
+        },
+        "Lexical & Vocabulary Changes": {
+            "description": "Word-level modifications for clarity, precision, and readability.",
+            "replacing_words": "Swapping out words for synonyms or more precise terminology.",
+            "removing_redundancy": "Eliminating unnecessary words or phrases.",
+            "using_domain_language": "Incorporating jargon or specialized vocabulary."
+        },
+        "Persuasion & Engagement Enhancements": {
+            "description": "Refinements that improve engagement, rhetorical impact, and readability.",
+            "adding_rhetorical_devices": "Using metaphors, analogies, or rhetorical questions for impact.",
+            "improving_readability": "Making the text more engaging and easier to understand.",
+            "targeting_audience": "Adjusting phrasing to better align with the intended reader."
+        },
+        "Compliance & Ethical Adjustments": {
+            "description": "Edits that align the text with ethical, legal, or community norms.",
+            "removing_biases": "Ensuring neutral and inclusive language.",
+            "aligning_with_guidelines": "Following ethical, legal, or community norms.",
+            "de_biasing_stereotypes": "Eliminating gendered, racial, or other biased language."
+        }
+    }
+}

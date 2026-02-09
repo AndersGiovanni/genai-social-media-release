@@ -1,0 +1,60 @@
+{
+    "usage_categories": {
+        "fact_checking_and_scientific_validation": {
+            "description": "Users request research-backed answers, seek validation for claims, and debunk misinformation.",
+            "sub_categories": {
+                "evidence_retrieval_and_citation_generation": {
+                    "description": "Users ask for sources and citations to support their claims."
+                },
+                "misinformation_detection_and_correction": {
+                    "description": "Users want to check if a claim is true or false and seek corrections for misinformation."
+                },
+                "data_interpretation_and_statistical_analysis": {
+                    "description": "Users request explanations of statistical results, data trends, or how to interpret findings."
+                }
+            }
+        },
+        "engagement_and_social_interaction_assistance": {
+            "description": "Users ask for help crafting responses, engaging in social interactions, and making witty or humorous replies.",
+            "sub_categories": {
+                "tone_and_style_adaptation": {
+                    "description": "Users request responses in a specific tone, such as formal, humorous, sarcastic, or poetic."
+                },
+                "contextual_response_generation": {
+                    "description": "Users want help formulating responses that fit the context of a conversation or discussion."
+                },
+                "role_play_and_persona_emulation": {
+                    "description": "Users ask the LLM to respond in the voice of a particular character, persona, or historical figure."
+                }
+            }
+        },
+        "casual_and_conversational_queries": {
+            "description": "Users engage in open-ended, informal, and sometimes playful discussions without a clear goal beyond conversation.",
+            "sub_categories": {
+                "small_talk_and_chit_chat": {
+                    "description": "Users initiate casual conversations, often without a specific request, just to talk."
+                },
+                "personalized_content_sharing": {
+                    "description": "Users ask for personalized recommendations, such as books, music, or movie suggestions."
+                },
+                "emotional_support_and_empathy": {
+                    "description": "Users express emotions and seek validation, comfort, or an empathetic response."
+                }
+            }
+        },
+        "political_philosophical_and_ethical_discussions": {
+            "description": "Users seek analysis of policies, societal structures, ethical dilemmas, and political theories.",
+            "sub_categories": {
+                "policy_analysis_and_debate": {
+                    "description": "Users ask about the effects, benefits, or drawbacks of specific policies and political decisions."
+                },
+                "ethical_dilemma_exploration": {
+                    "description": "Users pose moral or ethical dilemmas and ask for different perspectives on them."
+                },
+                "philosophical_concept_clarification": {
+                    "description": "Users seek explanations or discussions on philosophical ideas, theories, or concepts."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "usage_categories": {
+        "fact_checking_and_scientific_validation": {
+            "description": "Users request research-backed answers, seek validation for claims, and debunk misinformation.",
+            "examples": [
+                "Do you have research on dog talk buttons?",
+                "Is there scientific proof that oats help with weight loss the same as GLP-1 drugs?",
+                "Has it been proven that dogs can read?"
+            ]
+        },
+        "debate_and_argumentation_support": {
+            "description": "Users seek structured arguments, counterpoints, and persuasive responses for discussions and debates.",
+            "examples": [
+                "Give me a rebuttal to this claim.",
+                "Can you help me make an argument that training = intelligence?",
+                "Draft me a reply disagreeing that cats are smarter than dogs but in a polite way."
+            ]
+        },
+        "engagement_and_social_interaction_assistance": {
+            "description": "Users ask for help crafting responses, engaging in social interactions, and making witty or humorous replies.",
+            "examples": [
+                "How should I respond to this thread?",
+                "Can you talk like a pirate?",
+                "Reply while talking like someone intoxicated."
+            ]
+        },
+        "casual_and_conversational_queries": {
+            "description": "Users engage in open-ended, informal, and sometimes playful discussions without a clear goal beyond conversation.",
+            "examples": [
+                "What is going on here?",
+                "I love dogs very much.",
+                "Hi, what's going on today here?"
+            ]
+        },
+        "political_philosophical_and_ethical_discussions": {
+            "description": "Users seek analysis of policies, societal structures, ethical dilemmas, and political theories.",
+            "examples": [
+                "What do you think about UBI?",
+                "Would UBI create hyperinflation?",
+                "How does income equality and universal basic income go together?"
+            ]
+        },
+        "instructional_and_how_to_requests": {
+            "description": "Users ask for step-by-step guides, explanations, or structured insights.",
+            "examples": [
+                "What are different kinds of intelligence that animals exhibit?",
+                "How should I cook oats to maximize their benefits?",
+                "How do I go about dealing with divisive content?"
+            ]
+        },
+        "sentiment_and_context_analysis": {
+            "description": "Users seek summaries, context, or sentiment analysis of discussions.",
+            "examples": [
+                "Can you summarize the post and comments?",
+                "What's the general sentiment based on this conversation?",
+                "Break down the points of each user in bullet points."
+            ]
+        },
+        "conspiracy_and_speculative_thinking": {
+            "description": "Users engage in speculation, conspiracy theories, and alternative explanations.",
+            "examples": [
+                "Start a conspiracy theory about these topics.",
+                "Do we really know if we went to the moon?",
+                "Is AI controlling all social media comments?"
+            ]
+        }
+    }
+}

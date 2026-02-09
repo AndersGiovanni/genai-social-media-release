@@ -1,0 +1,78 @@
+{
+    "cats": [
+        {
+            "content_id": 1,
+            "user_id": 1,
+            "parent_content_id": null,
+            "content": "Cats are smarter than dogs on average.\n\nBy intelligence I am referring to an ability to problem solve. I’m not talking about how easy they are to train. I haven’t had nearly as many dogs as I have had cats so I could definitely be wrong on this. But I’ve seen my cats do some VERY smart things and I just haven’t had the experience with dogs to know if they can compete. I’m interested to hear some of the smartest things you’ve seen a dog do, so I can stop thinking they are less intelligent. I love dogs and I want to believe that they are smart too, I just haven’t seen it yet. The ones I’ve had just seemed dumb compared to my cats.",
+            "timestamp": 1715817600000
+        },
+        {
+            "content_id": 2,
+            "user_id": 2,
+            "content": "I would argue being trainable in multiple areas is a form of intelligence. Dogs are trained to provide an array of important services to humans (guide dogs, assisting firefighters and police, etc.) and the ability to do this definitely requires considerable intelligence.\n\nPerhaps one of the best examples to demonstrate dog's intelligence is the fact that they can be trained to read on a basic level. So far, there is no evidence that cats can read and understand written language in the way that dogs can. The reading ability of dogs is limited to single words (no sentences or paragraphs), but it is still very impressive all things considered.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 1
+        },
+        {
+            "content_id": 3,
+            "user_id": 1,
+            "content": "Great info on dogs being able to read I have never heard that before. That’s pretty smart. I said I wasn’t asking about trainability because I’ve seen my cats solve problems on their own, without having human instructions at all. I feel like this is smarter than teaching them to solve a problem. For example I’ve had a cat that ripped open a bag of cat litter and then spread it out on the carpet rather than pooping on the floor(her box was outside and she got locked inside on accident) and to me that shows a complex problem solving ability.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 2
+        },
+        {
+            "content_id": 4,
+            "user_id": 3,
+            "content": "And my dogs know how to open the back door to get outside when they need to go potty, didn’t train them to do this because waking up to the door wide open sucks especially in the winter. The border collie figured it out and the other quickly learned from him.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 3
+        }
+    ],
+    "oats": [
+        {
+            "content_id": 1,
+            "user_id": 1,
+            "parent_content_id": null,
+            "content": "Weight-loss power of oats naturally mimics popular obesity drugs\n\nResearchers fed mice a high-fat, high-sucrose diet and found 10% beta-glucan diets had significantly less weight gain, showing beneficial metabolic functions that GLP-1 agonists like Ozempic do, without the price tag or side-effects.",
+            "timestamp": 1720915200000
+        },
+        {
+            "content_id": 2,
+            "user_id": 2,
+            "content": "Was big oats behind this article?\nIn all seriousness oats have long been touted as having health benefits so the more we study this the better.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 1
+        },
+        {
+            "content_id": 3,
+            "user_id": 3,
+            "content": "You laugh but this kind of thing was behind the big push for breakfast cereals in the early 1900s, although their claims back then were outlandish. Still are, but were then too",
+            "timestamp": 1720915200000,
+            "parent_content_id": 2
+        }
+    ],
+    "politics": [
+        {
+            "content_id": 1,
+            "user_id": 1,
+            "parent_content_id": null,
+            "content": "Universal basic income is the way of the future.\n\nI recently started learning more about Andrew Yang and he seems like a very kind, sensible, intelligent man. I agree with a lot of his views, one of them being universal basic income. The world is just going to get more and more automated.\n\nWhat do we do when people are losing their jobs to robots? With self driving cars becoming more of a reality, delivery jobs are going to be obsolete in the very near future. It’s much cheaper to buy a vehicle once that can drive 24/7 than it is to pay a human being to work 8 hour shifts.\n\nThe experiments that have been done so far implementing universal basic income have been overwhelmingly positive, improving quality of life in the places it was tested. I would like to hear some reason against UBI so I can be better informed, thanks!",
+            "timestamp": 1715817600000
+        },
+        {
+            "content_id": 2,
+            "user_id": 2,
+            "content": "The idea that people have a right to some amount of resources. But how does this right work? People don't just magically have those things. So what do we do to get these things for them? Typically, the solution presented is to tax the people who are earning, and giving it to those who aren't. In effect, further denying people the right to keep the fruit of their labor, instead giving it to those who didn't earn it.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 1
+        },
+        {
+            "content_id": 3,
+            "user_id": 1,
+            "content": "The wealth inequality is already so massive it’s crazy to me that anybody would be trying to take more resources away from lower class citizens. My goal is just to take the poorest people and at least give them the resources to meet their basic needs. There would still be extremely rich people who have more money than they can ever spend, but at least the poorest people in the country get to sit in small houses rather than boxes.",
+            "timestamp": 1720915200000,
+            "parent_content_id": 2
+        }
+    ]
+}
