@@ -130,10 +130,10 @@ If you use this code in your research, please cite both the paper and this softw
 ### Software
 
 ```bibtex
-@software{moller2025genai_social_media,
+@software{moller2026genai_social_media,
   author    = {Møller, Anders Giovanni},
   title     = {Analysis Code for "The Impact of Generative AI on Social Media"},
-  year      = {2025},
+  year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.18537773},
   url       = {https://doi.org/10.5281/zenodo.18537773}
